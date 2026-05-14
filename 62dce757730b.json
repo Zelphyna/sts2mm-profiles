@@ -1,0 +1,397 @@
+{
+  "name": "Drusaks's fun adventure",
+  "game_version": null,
+  "created_by": "sts2-mod-manager",
+  "mods": [
+    {
+      "name": "Anime Defect",
+      "version": "0.2",
+      "source": null,
+      "hash": "bc0f573e45d8597eaada10175cb462a6f6fc295bd46a21ec5d1877b25605cfdf",
+      "files": [
+        "Defect Skin Anime\\animeDefect.pck",
+        "Defect Skin Anime\\mod_manifest.json"
+      ],
+      "folder_name": "Defect Skin Anime",
+      "mod_id": "animeDefect",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/Zelphyna/sts2mm-profiles/main/mods/Anime_Defect_0.2.zip"
+    },
+    {
+      "name": "BaseLib",
+      "version": "v3.1.2",
+      "source": "github:https://github.com/Alchyr/BaseLib-StS2",
+      "hash": "e8ec6dda30f0e7c67858e42d47c234f0ace2eea8a41b9857c857f9f87f93180c",
+      "files": [
+        "BaseLib\\BaseLib.dll",
+        "BaseLib\\BaseLib.json",
+        "BaseLib\\BaseLib.pck"
+      ],
+      "folder_name": "BaseLib",
+      "mod_id": "BaseLib",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/Zelphyna/sts2mm-profiles/main/mods/BaseLib_3.1.2.zip"
+    },
+    {
+      "name": "Calypso'sHappyHour / 卡里普索的欢乐时光",
+      "version": "v1.1.3",
+      "source": null,
+      "hash": "e69f6612d2c349a9d4d8eb42b23772b03d95b8d9bae7defe6a1317ea3c8bd3e1",
+      "files": [
+        "Calypsos Happy Hour\\CalypsosHappyHour.dll",
+        "Calypsos Happy Hour\\CalypsosHappyHour.json",
+        "Calypsos Happy Hour\\CalypsosHappyHour.pck",
+        "Calypsos Happy Hour\\card_weights.cfg"
+      ],
+      "folder_name": "Calypsos Happy Hour",
+      "mod_id": "CalypsosHappyHour",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/Zelphyna/sts2mm-profiles/main/mods/Calypso_sHappyHour___卡里普索的欢乐时光_1.1.3.zip"
+    },
+    {
+      "name": "Campfire Trading",
+      "version": "v1.0",
+      "source": "github:https://github.com/chaendizzle/STS2Trade",
+      "hash": "7de49de0d1663d5d6cd3607eb963f560472800f37b3b9839096583fb41b387f6",
+      "files": [
+        "Campfire Trading\\STS2Trade.dll",
+        "Campfire Trading\\STS2Trade.json",
+        "Campfire Trading\\STS2Trade.pck"
+      ],
+      "folder_name": "Campfire Trading",
+      "mod_id": "STS2Trade",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/Zelphyna/sts2mm-profiles/main/mods/Campfire_Trading_1.0.zip"
+    },
+    {
+      "name": "CombatQuill",
+      "version": "0.2.2",
+      "source": null,
+      "hash": "b8b77e6f880e182a43c20943b4413045d4a074a5debe8170ba586ec96ebb7ccf",
+      "files": [
+        "CombatQuill\\CombatQuill.dll",
+        "CombatQuill\\CombatQuill.json",
+        "CombatQuill\\CombatQuill.pck",
+        "CombatQuill\\combatquill.settings.json",
+        "CombatQuill\\mod_manifest.json"
+      ],
+      "folder_name": "CombatQuill",
+      "mod_id": "CombatQuill",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/Zelphyna/sts2mm-profiles/main/mods/CombatQuill_0.2.2.zip"
+    },
+    {
+      "name": "Early Doom",
+      "version": "1.0.3",
+      "source": null,
+      "hash": "21f6e1f755009078c05bd408148b53cf0d338d75fbd7259cb0d62c68af33759c",
+      "files": [
+        "Early Doom\\EarlyDoom.dll",
+        "Early Doom\\EarlyDoom.json",
+        "Early Doom\\EarlyDoom.pck"
+      ],
+      "folder_name": "Early Doom",
+      "mod_id": "EarlyDoom",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/Zelphyna/sts2mm-profiles/main/mods/Early_Doom_1.0.3.zip"
+    },
+    {
+      "name": "Enchantress",
+      "version": "v0.0.0",
+      "source": null,
+      "hash": "7531accfe4c29b969eea8e28a4ba1be0ba73e430660bbf698184336690e8bb6b",
+      "files": [
+        "The Enchantress\\Enchantress.dll",
+        "The Enchantress\\Enchantress.json",
+        "The Enchantress\\Enchantress.pck"
+      ],
+      "folder_name": "The Enchantress",
+      "mod_id": "Enchantress",
+      "enabled": true
+    },
+    {
+      "name": "ironcladSkin",
+      "version": "0.0.1",
+      "source": null,
+      "hash": "7dc147e25772a8babb3b924b0787106afa24730b0b8c180206651bd93b1581fc",
+      "files": [
+        "Ironclad Skin Anime\\ironcladSkin.pck",
+        "Ironclad Skin Anime\\mod_manifest.json"
+      ],
+      "folder_name": "Ironclad Skin Anime",
+      "mod_id": "ironcladSkin",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/Zelphyna/sts2mm-profiles/main/mods/ironcladSkin_0.0.1.zip"
+    },
+    {
+      "name": "MeiLinMod",
+      "version": "v0.2.4",
+      "source": "github:https://github.com/happyone13/MeiLinMod-sts2",
+      "hash": "149371505d17ee7ee6c0e922ee1ec1d84ef9dcc8d76313bc35b4f63abb3f9c28",
+      "files": [
+        "Mei lin\\MeiLinMod.dll",
+        "Mei lin\\MeiLinMod.json",
+        "Mei lin\\MeiLinMod.pck"
+      ],
+      "folder_name": "Mei lin",
+      "mod_id": "MeiLinMod",
+      "enabled": true
+    },
+    {
+      "name": "Merchant2CuteII",
+      "version": "v1.4.0",
+      "source": null,
+      "hash": "bc033a114fc87261440889e5b71140cfb33a62026eabcc4f8298e31edb5ca8ca",
+      "files": [
+        "Merchant 2 Cute\\Merchant2CuteII.dll",
+        "Merchant 2 Cute\\Merchant2CuteII.json",
+        "Merchant 2 Cute\\Merchant2CuteII.pck"
+      ],
+      "folder_name": "Merchant 2 Cute",
+      "mod_id": "Merchant2CuteII",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/Zelphyna/sts2mm-profiles/main/mods/Merchant2CuteII_1.4.0.zip"
+    },
+    {
+      "name": "necrobinderSkin",
+      "version": "0.0.1",
+      "source": null,
+      "hash": "df139d67cf2ccbb6258caf71c53a91a4c38c1e463b1d35b8f5788b391e546184",
+      "files": [
+        "Necrobinder Skin Anime\\mod_manifest.json",
+        "Necrobinder Skin Anime\\necrobinderSkin.pck"
+      ],
+      "folder_name": "Necrobinder Skin Anime",
+      "mod_id": "necrobinderSkin",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/Zelphyna/sts2mm-profiles/main/mods/necrobinderSkin_0.0.1.zip"
+    },
+    {
+      "name": "NecroCastoriceCards",
+      "version": "1.0",
+      "source": null,
+      "hash": "cb85f9943fed58d1cc0832785c4a01ed3051e3ffbdcdc4c9c39ab32be80eb0c1",
+      "files": [
+        "Necrobinder Skin Cards Castorice\\NecroCastoriceCards.dll",
+        "Necrobinder Skin Cards Castorice\\NecroCastoriceCards.json",
+        "Necrobinder Skin Cards Castorice\\NecroCastoriceCards.pck"
+      ],
+      "folder_name": "Necrobinder Skin Cards Castorice",
+      "mod_id": "NecroCastoriceCards",
+      "enabled": true
+    },
+    {
+      "name": "neowSkin",
+      "version": "0.0.1",
+      "source": null,
+      "hash": "00b3f3d0e6a325d7b513833d83079cbe70f133a64f0726810e398360ff31ed5b",
+      "files": [
+        "neowSkin\\neowSkin.pck",
+        "neowSkin\\neowSkinmod_manifest.json",
+        "neowSkin\\QQ20260513-223323.mp4",
+        "neowSkin\\美术版权说明.txt"
+      ],
+      "folder_name": "neowSkin",
+      "mod_id": "neowSkin",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/Zelphyna/sts2mm-profiles/main/mods/neowSkin_0.0.1.zip"
+    },
+    {
+      "name": "Princess",
+      "version": "v0.0.1",
+      "source": null,
+      "hash": "b0cf0c0dc43713605797781826c9f8b810fbadd43c4d91365d29dde3ca25b57b",
+      "files": [
+        "Princess\\Princess.dll",
+        "Princess\\Princess.json",
+        "Princess\\Princess.pck",
+        "Princess\\Princess.pdb"
+      ],
+      "folder_name": "Princess",
+      "mod_id": "Princess",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/Zelphyna/sts2mm-profiles/main/mods/Princess_0.0.1.zip"
+    },
+    {
+      "name": "regent Skin",
+      "version": "0.0.1",
+      "source": null,
+      "hash": "d6d69927c9047a5e3cbb442ff450c9c9a073679752ffc8193bf687a7afad118a",
+      "files": [
+        "Regent Skin Anime\\mod_manifest.json",
+        "Regent Skin Anime\\regentSkin.pck"
+      ],
+      "folder_name": "Regent Skin Anime",
+      "mod_id": "regentSkin",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/Zelphyna/sts2mm-profiles/main/mods/regent_Skin_0.0.1.zip"
+    },
+    {
+      "name": "RegentCardsAnimeRework",
+      "version": "v0.5.1",
+      "source": null,
+      "hash": "1882f601ec0ee6231e3ca578c51b206ea1b8f609be559f5d199c4986d4cfe2be",
+      "files": [
+        "Regent Skin Cards Anime\\RegentCardsAnimeRework.dll",
+        "Regent Skin Cards Anime\\RegentCardsAnimeRework.json",
+        "Regent Skin Cards Anime\\RegentCardsAnimeRework.pck"
+      ],
+      "folder_name": "Regent Skin Cards Anime",
+      "mod_id": "RegentCardsAnimeRework",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/Zelphyna/sts2mm-profiles/main/mods/RegentCardsAnimeRework_0.5.1.zip"
+    },
+    {
+      "name": "Relic Reward Choice",
+      "version": "1.7.0",
+      "source": null,
+      "hash": "ad3e3cf7d684a8886e94a3ffcf12cf8774256f8245ca9fe8cf827eab2f964813",
+      "files": [
+        "Relic Reward Choice\\RelicRewardChoice.dll",
+        "Relic Reward Choice\\RelicRewardChoice.json",
+        "Relic Reward Choice\\RelicRewardChoice.pdb"
+      ],
+      "folder_name": "Relic Reward Choice",
+      "mod_id": "RelicRewardChoice",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/Zelphyna/sts2mm-profiles/main/mods/Relic_Reward_Choice_1.7.0.zip"
+    },
+    {
+      "name": "Sell mod",
+      "version": "v0.0.18",
+      "source": null,
+      "hash": "243ad192fa37e0f582bf9b6a4669597ad283b3ead558cb8d87206eb727aa39a6",
+      "files": [
+        "Sell Mod\\BasicMod.dll",
+        "Sell Mod\\BasicMod.json",
+        "Sell Mod\\BasicMod.pck",
+        "Sell Mod\\Patchnote v0.0.18.txt"
+      ],
+      "folder_name": "Sell Mod",
+      "mod_id": "BasicMod",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/Zelphyna/sts2mm-profiles/main/mods/Sell_mod_0.0.18.zip"
+    },
+    {
+      "name": "silentSkin",
+      "version": "0.0.1",
+      "source": null,
+      "hash": "b137ebd5dde9fbf07adba96cf898e217d88453395dbf6a91c9ce1966819210d3",
+      "files": [
+        "Silent Skin Anime\\mod_manifest.json",
+        "Silent Skin Anime\\silentSkin.pck"
+      ],
+      "folder_name": "Silent Skin Anime",
+      "mod_id": "silentSkin",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/Zelphyna/sts2mm-profiles/main/mods/silentSkin_0.0.1.zip"
+    },
+    {
+      "name": "Teammate Spectate",
+      "version": "v1.0.1",
+      "source": null,
+      "hash": "e2fe2411feaace73b3bc66b66ed24c9f9fa9fe947385f545e815e8da87ac95f6",
+      "files": [
+        "Spectate Teammate\\TeammateSpectate.dll",
+        "Spectate Teammate\\TeammateSpectate.json"
+      ],
+      "folder_name": "Spectate Teammate",
+      "mod_id": "TeammateSpectate",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/Zelphyna/sts2mm-profiles/main/mods/Teammate_Spectate_1.0.1.zip"
+    },
+    {
+      "name": "The Defect - Card art mod",
+      "version": "v0.01",
+      "source": null,
+      "hash": "896117fe6b63f1b39144a35fedbf8d42232109f402a085ea283f1d397f8aa760",
+      "files": [
+        "Defect Skin Card\\TheDefectCardArtMod.dll",
+        "Defect Skin Card\\TheDefectCardArtMod.json",
+        "Defect Skin Card\\TheDefectCardArtMod.pck"
+      ],
+      "folder_name": "Defect Skin Card",
+      "mod_id": "TheDefectCardArtMod",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/Zelphyna/sts2mm-profiles/main/mods/The_Defect_-_Card_art_mod_0.01.zip"
+    },
+    {
+      "name": "Transform Or Banish",
+      "version": "1.3.1",
+      "source": null,
+      "hash": "d4d1bc65d4ecb5781fa6893ff4d6e7a3a6a1444f57b2c249c6e10308ad8fd64b",
+      "files": [
+        "TransformOrBanish\\TransformOrBanish.dll",
+        "TransformOrBanish\\TransformOrBanish.json",
+        "TransformOrBanish\\TransformOrBanish.pck"
+      ],
+      "folder_name": "TransformOrBanish",
+      "mod_id": "TransformOrBanish",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/Zelphyna/sts2mm-profiles/main/mods/Transform_Or_Banish_1.3.1.zip"
+    },
+    {
+      "name": "Unified Save Path",
+      "version": "1.0.0",
+      "source": "github:https://github.com/luojiesi/SLS2Mods/tree/master",
+      "hash": "08b7cbb36c7b48820e44c060d2dc6b6c49edbb945c7cb1e8f7a44866f7c650cc",
+      "files": [
+        "UnifiedSavePath.dll",
+        "UnifiedSavePath.json",
+        "UnifiedSavePath.pck"
+      ],
+      "folder_name": "UnifiedSavePath",
+      "mod_id": "UnifiedSavePath",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/Zelphyna/sts2mm-profiles/main/mods/Unified_Save_Path_1.0.0.zip"
+    },
+    {
+      "name": "Watcher",
+      "version": "v1.4.3",
+      "source": "github:https://github.com/lamali292/WatcherMod/",
+      "hash": "5d9d2852d229e062aea00b82fcc704042a9d972086b748e3a4e45b76b2894942",
+      "files": [
+        "The Watcher\\Watcher.dll",
+        "The Watcher\\Watcher.json",
+        "The Watcher\\Watcher.pck"
+      ],
+      "folder_name": "The Watcher",
+      "mod_id": "Watcher",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/Zelphyna/sts2mm-profiles/main/mods/Watcher_1.4.3.zip"
+    },
+    {
+      "name": "皮皮统计: Skada",
+      "version": "1.14.2",
+      "source": null,
+      "hash": "fda6cdd062b404fd214c6ecf50b27e3753b87736a5f51812b6f315832f467fcf",
+      "files": [
+        "Damage Meter\\DamageMeter.dll",
+        "Damage Meter\\DamageMeter.json",
+        "Damage Meter\\DamageMeter.pck"
+      ],
+      "folder_name": "Damage Meter",
+      "mod_id": "DamageMeter",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/Zelphyna/sts2mm-profiles/main/mods/皮皮统计__Skada_1.14.2.zip"
+    },
+    {
+      "name": "皮皮配置: ModConfig",
+      "version": "0.2.3",
+      "source": null,
+      "hash": "8447e852546eb29bd058d9c49c1def0ef09f312d3e7073c7c7cb1586a5edbf8f",
+      "files": [
+        "ModConfig\\ModConfig.dll",
+        "ModConfig\\ModConfig.json",
+        "ModConfig\\ModConfig.pck"
+      ],
+      "folder_name": "ModConfig",
+      "mod_id": "ModConfig",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/Zelphyna/sts2mm-profiles/main/mods/皮皮配置__ModConfig_0.2.3.zip"
+    }
+  ],
+  "created_at": "2026-05-13T10:24:07.426409400Z",
+  "updated_at": "2026-05-14T07:37:51.602152300Z",
+  "public": false
+}
