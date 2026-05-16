@@ -15,13 +15,14 @@
       "folder_name": "Defect Skin Anime",
       "mod_id": "animeDefect",
       "enabled": true,
-      "bundle_url": "https://raw.githubusercontent.com/Zelphyna/sts2mm-profiles/main/mods/Anime_Defect_0.2.zip"
+      "bundle_url": "https://github.com/Zelphyna/sts2mm-profiles/releases/download/bundles/Anime_Defect_v0.2.zip",
+      "bundle_sha256": "06941d5497f892211d1bb46551d3ea975692c76ac27cbe11e41f7ff64bd5e217"
     },
     {
       "name": "BaseLib",
-      "version": "v3.1.2",
-      "source": "github:https://github.com/Alchyr/BaseLib-StS2",
-      "hash": "e8ec6dda30f0e7c67858e42d47c234f0ace2eea8a41b9857c857f9f87f93180c",
+      "version": "v3.1.3",
+      "source": "github:Alchyr/BaseLib-StS2",
+      "hash": "9e950d70598706e8cc47d05a1f64bb2836b4c1bdd8d1729a1e278c268e148829",
       "files": [
         "BaseLib\\BaseLib.dll",
         "BaseLib\\BaseLib.json",
@@ -30,7 +31,8 @@
       "folder_name": "BaseLib",
       "mod_id": "BaseLib",
       "enabled": true,
-      "bundle_url": "https://raw.githubusercontent.com/Zelphyna/sts2mm-profiles/main/mods/BaseLib_3.1.2.zip"
+      "bundle_url": "https://github.com/Zelphyna/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.3.zip",
+      "bundle_sha256": "bb7e558945123fa3d3f2edc73c52508e837f891470c66adf52bcc8a1b5400938"
     },
     {
       "name": "Calypso'sHappyHour / 卡里普索的欢乐时光",
@@ -38,15 +40,16 @@
       "source": null,
       "hash": "e69f6612d2c349a9d4d8eb42b23772b03d95b8d9bae7defe6a1317ea3c8bd3e1",
       "files": [
-        "Calypsos Happy Hour\\CalypsosHappyHour.dll",
-        "Calypsos Happy Hour\\CalypsosHappyHour.json",
-        "Calypsos Happy Hour\\CalypsosHappyHour.pck",
-        "Calypsos Happy Hour\\card_weights.cfg"
+        "CalypsosHappyHour\\CalypsosHappyHour.dll",
+        "CalypsosHappyHour\\CalypsosHappyHour.json",
+        "CalypsosHappyHour\\CalypsosHappyHour.pck",
+        "CalypsosHappyHour\\card_weights.cfg"
       ],
-      "folder_name": "Calypsos Happy Hour",
+      "folder_name": "CalypsosHappyHour",
       "mod_id": "CalypsosHappyHour",
       "enabled": true,
-      "bundle_url": "https://raw.githubusercontent.com/Zelphyna/sts2mm-profiles/main/mods/Calypso_sHappyHour___卡里普索的欢乐时光_1.1.3.zip"
+      "bundle_url": "https://github.com/Zelphyna/sts2mm-profiles/releases/download/bundles/Calypso_sHappyHour_____________v1.1.3.zip",
+      "bundle_sha256": "91f85357887c3a7ae580d5557140416db820625e682766afb17b2dec1f244bee"
     },
     {
       "name": "Campfire Trading",
@@ -61,7 +64,8 @@
       "folder_name": "Campfire Trading",
       "mod_id": "STS2Trade",
       "enabled": true,
-      "bundle_url": "https://raw.githubusercontent.com/Zelphyna/sts2mm-profiles/main/mods/Campfire_Trading_1.0.zip"
+      "bundle_url": "https://github.com/Zelphyna/sts2mm-profiles/releases/download/bundles/Campfire_Trading_v1.0.zip",
+      "bundle_sha256": "ca3c23c03fa4f46e8fb4b19740fa36bed9b8f2e86fc916322f7e7f1bbabcae46"
     },
     {
       "name": "CombatQuill",
@@ -78,7 +82,8 @@
       "folder_name": "CombatQuill",
       "mod_id": "CombatQuill",
       "enabled": true,
-      "bundle_url": "https://raw.githubusercontent.com/Zelphyna/sts2mm-profiles/main/mods/CombatQuill_0.2.2.zip"
+      "bundle_url": "https://github.com/Zelphyna/sts2mm-profiles/releases/download/bundles/CombatQuill_v0.2.2.zip",
+      "bundle_sha256": "09006e0beb67e1ee4f8f5fa0a4a7ce369eb57cb6ab04228076a7b163dae661b7"
     },
     {
       "name": "Early Doom",
@@ -93,7 +98,8 @@
       "folder_name": "Early Doom",
       "mod_id": "EarlyDoom",
       "enabled": true,
-      "bundle_url": "https://raw.githubusercontent.com/Zelphyna/sts2mm-profiles/main/mods/Early_Doom_1.0.3.zip"
+      "bundle_url": "https://github.com/Zelphyna/sts2mm-profiles/releases/download/bundles/Early_Doom_v1.0.3.zip",
+      "bundle_sha256": "b2efb9678b928952431a8d3aa6e8606d922b5b3013052f3dcb4ba25787f9ddf5"
     },
     {
       "name": "Enchantress",
@@ -107,7 +113,25 @@
       ],
       "folder_name": "The Enchantress",
       "mod_id": "Enchantress",
-      "enabled": true
+      "enabled": true,
+      "bundle_url": "https://github.com/Zelphyna/sts2mm-profiles/releases/download/bundles/Enchantress_v0.0.0.zip",
+      "bundle_sha256": "3f9ddacd3b7694025b19b8236ec207e88caf8b02972461363b51acbfd55abacc"
+    },
+    {
+      "name": "Hologirl",
+      "version": "0.2.46",
+      "source": "github:atyrode/sts2_character_hologirl",
+      "hash": "61d26b6de2aeac699eac76703a2789dafc17e2b6c4bced6d3dfb7e2f711da37f",
+      "files": [
+        "Hologirl\\Hologirl.dll",
+        "Hologirl\\Hologirl.json",
+        "Hologirl\\Hologirl.pck"
+      ],
+      "folder_name": "Hologirl",
+      "mod_id": "Hologirl",
+      "enabled": true,
+      "bundle_url": "https://github.com/Zelphyna/sts2mm-profiles/releases/download/bundles/Hologirl_v0.2.46.zip",
+      "bundle_sha256": "448cf75dec85599a92a12c0c999faf8b7574231dfc827d9bada1f89397f870d8"
     },
     {
       "name": "ironcladSkin",
@@ -121,21 +145,24 @@
       "folder_name": "Ironclad Skin Anime",
       "mod_id": "ironcladSkin",
       "enabled": true,
-      "bundle_url": "https://raw.githubusercontent.com/Zelphyna/sts2mm-profiles/main/mods/ironcladSkin_0.0.1.zip"
+      "bundle_url": "https://github.com/Zelphyna/sts2mm-profiles/releases/download/bundles/ironcladSkin_v0.0.1.zip",
+      "bundle_sha256": "dfb617afa10ebe87a7183af426c5ffbc23c0f99f1717c4b9e8acfb55a7340272"
     },
     {
       "name": "MeiLinMod",
-      "version": "v0.2.4",
+      "version": "v0.2.5",
       "source": "github:https://github.com/happyone13/MeiLinMod-sts2",
-      "hash": "149371505d17ee7ee6c0e922ee1ec1d84ef9dcc8d76313bc35b4f63abb3f9c28",
+      "hash": "aab559454d73602f5a1a102f37ec3171a2699ababfc4534f2b7b6493235b8f76",
       "files": [
-        "Mei lin\\MeiLinMod.dll",
-        "Mei lin\\MeiLinMod.json",
-        "Mei lin\\MeiLinMod.pck"
+        "MeiLinMod\\MeiLinMod.dll",
+        "MeiLinMod\\MeiLinMod.json",
+        "MeiLinMod\\MeiLinMod.pck"
       ],
-      "folder_name": "Mei lin",
+      "folder_name": "MeiLinMod",
       "mod_id": "MeiLinMod",
-      "enabled": true
+      "enabled": true,
+      "bundle_url": "https://github.com/Zelphyna/sts2mm-profiles/releases/download/bundles/MeiLinMod_v0.2.5.zip",
+      "bundle_sha256": "dca296fd57e7546a04aeb7c6677c560cf07bca4b778ac0961366b88306a022b2"
     },
     {
       "name": "Merchant2CuteII",
@@ -150,7 +177,8 @@
       "folder_name": "Merchant 2 Cute",
       "mod_id": "Merchant2CuteII",
       "enabled": true,
-      "bundle_url": "https://raw.githubusercontent.com/Zelphyna/sts2mm-profiles/main/mods/Merchant2CuteII_1.4.0.zip"
+      "bundle_url": "https://github.com/Zelphyna/sts2mm-profiles/releases/download/bundles/Merchant2CuteII_v1.4.0.zip",
+      "bundle_sha256": "ebc9f2cb7b14a2160718579781c844aca8edec1db4ef6a7ab6dab0c609ecf5ac"
     },
     {
       "name": "necrobinderSkin",
@@ -164,7 +192,8 @@
       "folder_name": "Necrobinder Skin Anime",
       "mod_id": "necrobinderSkin",
       "enabled": true,
-      "bundle_url": "https://raw.githubusercontent.com/Zelphyna/sts2mm-profiles/main/mods/necrobinderSkin_0.0.1.zip"
+      "bundle_url": "https://github.com/Zelphyna/sts2mm-profiles/releases/download/bundles/necrobinderSkin_v0.0.1.zip",
+      "bundle_sha256": "3cb034d999ab42649c584f4f57c33609bdbb94384936939a8f0d95eb5dd3be82"
     },
     {
       "name": "NecroCastoriceCards",
@@ -178,7 +207,9 @@
       ],
       "folder_name": "Necrobinder Skin Cards Castorice",
       "mod_id": "NecroCastoriceCards",
-      "enabled": true
+      "enabled": true,
+      "bundle_url": "https://github.com/Zelphyna/sts2mm-profiles/releases/download/bundles/NecroCastoriceCards_v1.0.zip",
+      "bundle_sha256": "785c01b9a5e14a47a8ee0b3f6bb5d5712d5200dc888bc2e233a2f0388086c211"
     },
     {
       "name": "neowSkin",
@@ -194,7 +225,8 @@
       "folder_name": "neowSkin",
       "mod_id": "neowSkin",
       "enabled": true,
-      "bundle_url": "https://raw.githubusercontent.com/Zelphyna/sts2mm-profiles/main/mods/neowSkin_0.0.1.zip"
+      "bundle_url": "https://github.com/Zelphyna/sts2mm-profiles/releases/download/bundles/neowSkin_v0.0.1.zip",
+      "bundle_sha256": "f13eb5ce474d7c545afc15e44c444d587cc2c32fa697ae0db574bdcdbe130026"
     },
     {
       "name": "Princess",
@@ -210,7 +242,8 @@
       "folder_name": "Princess",
       "mod_id": "Princess",
       "enabled": true,
-      "bundle_url": "https://raw.githubusercontent.com/Zelphyna/sts2mm-profiles/main/mods/Princess_0.0.1.zip"
+      "bundle_url": "https://github.com/Zelphyna/sts2mm-profiles/releases/download/bundles/Princess_v0.0.1.zip",
+      "bundle_sha256": "81032119fcaddd22362de4edfb15cdb0492c927452378e72e9921e6a5e237422"
     },
     {
       "name": "regent Skin",
@@ -224,7 +257,8 @@
       "folder_name": "Regent Skin Anime",
       "mod_id": "regentSkin",
       "enabled": true,
-      "bundle_url": "https://raw.githubusercontent.com/Zelphyna/sts2mm-profiles/main/mods/regent_Skin_0.0.1.zip"
+      "bundle_url": "https://github.com/Zelphyna/sts2mm-profiles/releases/download/bundles/regent_Skin_v0.0.1.zip",
+      "bundle_sha256": "095e98fbf2c0e821924871ca9fca9fc89a9ff870e9bd896d63dc38b337422126"
     },
     {
       "name": "RegentCardsAnimeRework",
@@ -239,7 +273,8 @@
       "folder_name": "Regent Skin Cards Anime",
       "mod_id": "RegentCardsAnimeRework",
       "enabled": true,
-      "bundle_url": "https://raw.githubusercontent.com/Zelphyna/sts2mm-profiles/main/mods/RegentCardsAnimeRework_0.5.1.zip"
+      "bundle_url": "https://github.com/Zelphyna/sts2mm-profiles/releases/download/bundles/RegentCardsAnimeRework_v0.5.1.zip",
+      "bundle_sha256": "4ed787073191753a588067c94c58f8839994a0e217966d0ed7b411c4ceac1abe"
     },
     {
       "name": "Relic Reward Choice",
@@ -254,7 +289,8 @@
       "folder_name": "Relic Reward Choice",
       "mod_id": "RelicRewardChoice",
       "enabled": true,
-      "bundle_url": "https://raw.githubusercontent.com/Zelphyna/sts2mm-profiles/main/mods/Relic_Reward_Choice_1.7.0.zip"
+      "bundle_url": "https://github.com/Zelphyna/sts2mm-profiles/releases/download/bundles/Relic_Reward_Choice_v1.7.0.zip",
+      "bundle_sha256": "c159705d967c6a47a7fdde294faa7d8dc3ba0a2324c5c6b792530935a3a9126c"
     },
     {
       "name": "Sell mod",
@@ -270,7 +306,8 @@
       "folder_name": "Sell Mod",
       "mod_id": "BasicMod",
       "enabled": true,
-      "bundle_url": "https://raw.githubusercontent.com/Zelphyna/sts2mm-profiles/main/mods/Sell_mod_0.0.18.zip"
+      "bundle_url": "https://github.com/Zelphyna/sts2mm-profiles/releases/download/bundles/Sell_mod_v0.0.18.zip",
+      "bundle_sha256": "1dd4f0c7329dadc37457c4a6c203b67d8f182f9627bd200f873ace5190bab72a"
     },
     {
       "name": "silentSkin",
@@ -284,7 +321,27 @@
       "folder_name": "Silent Skin Anime",
       "mod_id": "silentSkin",
       "enabled": true,
-      "bundle_url": "https://raw.githubusercontent.com/Zelphyna/sts2mm-profiles/main/mods/silentSkin_0.0.1.zip"
+      "bundle_url": "https://github.com/Zelphyna/sts2mm-profiles/releases/download/bundles/silentSkin_v0.0.1.zip",
+      "bundle_sha256": "cbdf20f13081abff1b8b68c88cd2996d5b34612a40b2e41a53ff6954905566cc"
+    },
+    {
+      "name": "StS2Hoshino",
+      "version": "v0.0.11",
+      "source": null,
+      "hash": "fe3a0107f8399005e9f4f0b22aac461df70991b7fcedc9e9de39ea1c63f63d8f",
+      "files": [
+        "StS2Hoshino\\StS2Hoshino.dll",
+        "StS2Hoshino\\StS2Hoshino.json",
+        "StS2Hoshino\\StS2Hoshino.pck",
+        "StS2Hoshino\\StS2Hoshino.pck2857935.tmp",
+        "StS2Hoshino\\StS2Hoshino.pck2892407.tmp",
+        "StS2Hoshino\\StS2Hoshino.pck3135426.tmp"
+      ],
+      "folder_name": "StS2Hoshino",
+      "mod_id": "StS2Hoshino",
+      "enabled": true,
+      "bundle_url": "https://github.com/Zelphyna/sts2mm-profiles/releases/download/bundles/StS2Hoshino_v0.0.11.zip",
+      "bundle_sha256": "b8b2bd8f63200e5daddba3e917f7489bb4b1eec2522ba52d11e8903e4a3c712c"
     },
     {
       "name": "Teammate Spectate",
@@ -298,7 +355,8 @@
       "folder_name": "Spectate Teammate",
       "mod_id": "TeammateSpectate",
       "enabled": true,
-      "bundle_url": "https://raw.githubusercontent.com/Zelphyna/sts2mm-profiles/main/mods/Teammate_Spectate_1.0.1.zip"
+      "bundle_url": "https://github.com/Zelphyna/sts2mm-profiles/releases/download/bundles/Teammate_Spectate_v1.0.1.zip",
+      "bundle_sha256": "54a1b933fd17fd952b33295fa26ec1d2652cded56f66db6b4d54ee76f050c7a9"
     },
     {
       "name": "The Defect - Card art mod",
@@ -313,7 +371,8 @@
       "folder_name": "Defect Skin Card",
       "mod_id": "TheDefectCardArtMod",
       "enabled": true,
-      "bundle_url": "https://raw.githubusercontent.com/Zelphyna/sts2mm-profiles/main/mods/The_Defect_-_Card_art_mod_0.01.zip"
+      "bundle_url": "https://github.com/Zelphyna/sts2mm-profiles/releases/download/bundles/The_Defect_-_Card_art_mod_v0.01.zip",
+      "bundle_sha256": "66b605edfa2fec9c948ae7adb799adf618fd987ae3b711fda8363d0156168140"
     },
     {
       "name": "Transform Or Banish",
@@ -328,7 +387,8 @@
       "folder_name": "TransformOrBanish",
       "mod_id": "TransformOrBanish",
       "enabled": true,
-      "bundle_url": "https://raw.githubusercontent.com/Zelphyna/sts2mm-profiles/main/mods/Transform_Or_Banish_1.3.1.zip"
+      "bundle_url": "https://github.com/Zelphyna/sts2mm-profiles/releases/download/bundles/Transform_Or_Banish_v1.3.1.zip",
+      "bundle_sha256": "58dee1ce3f0582325e74a1533ddc7708df529764aa472f478cf1231747e25911"
     },
     {
       "name": "Unified Save Path",
@@ -336,14 +396,15 @@
       "source": "github:https://github.com/luojiesi/SLS2Mods/tree/master",
       "hash": "08b7cbb36c7b48820e44c060d2dc6b6c49edbb945c7cb1e8f7a44866f7c650cc",
       "files": [
-        "UnifiedSavePath.dll",
-        "UnifiedSavePath.json",
-        "UnifiedSavePath.pck"
+        "UnifiedSavePath\\UnifiedSavePath.dll",
+        "UnifiedSavePath\\UnifiedSavePath.json",
+        "UnifiedSavePath\\UnifiedSavePath.pck"
       ],
       "folder_name": "UnifiedSavePath",
       "mod_id": "UnifiedSavePath",
       "enabled": true,
-      "bundle_url": "https://raw.githubusercontent.com/Zelphyna/sts2mm-profiles/main/mods/Unified_Save_Path_1.0.0.zip"
+      "bundle_url": "https://github.com/Zelphyna/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0.zip",
+      "bundle_sha256": "8aa30e76d1e842f03fde0679cf7012013a19e153c851015fa4b05cc421898c28"
     },
     {
       "name": "Watcher",
@@ -358,7 +419,8 @@
       "folder_name": "The Watcher",
       "mod_id": "Watcher",
       "enabled": true,
-      "bundle_url": "https://raw.githubusercontent.com/Zelphyna/sts2mm-profiles/main/mods/Watcher_1.4.3.zip"
+      "bundle_url": "https://github.com/Zelphyna/sts2mm-profiles/releases/download/bundles/Watcher_v1.4.3.zip",
+      "bundle_sha256": "3bd8851b83215d2fa7023be1cdea8b08399ba1dadd722d82e8363e7bd311ec80"
     },
     {
       "name": "皮皮统计: Skada",
@@ -373,7 +435,8 @@
       "folder_name": "Damage Meter",
       "mod_id": "DamageMeter",
       "enabled": true,
-      "bundle_url": "https://raw.githubusercontent.com/Zelphyna/sts2mm-profiles/main/mods/皮皮统计__Skada_1.14.2.zip"
+      "bundle_url": "https://github.com/Zelphyna/sts2mm-profiles/releases/download/bundles/______Skada_v1.14.2.zip",
+      "bundle_sha256": "4ccbce5b698f8637332042720f7efc0810b01f437c20149f531caef6926a7305"
     },
     {
       "name": "皮皮配置: ModConfig",
@@ -388,10 +451,11 @@
       "folder_name": "ModConfig",
       "mod_id": "ModConfig",
       "enabled": true,
-      "bundle_url": "https://raw.githubusercontent.com/Zelphyna/sts2mm-profiles/main/mods/皮皮配置__ModConfig_0.2.3.zip"
+      "bundle_url": "https://github.com/Zelphyna/sts2mm-profiles/releases/download/bundles/______ModConfig_v0.2.3.zip",
+      "bundle_sha256": "a98a733a9628b4999284ab74102385b679942d5f954af484bd912c4af2502e96"
     }
   ],
   "created_at": "2026-05-13T10:24:07.426409400Z",
-  "updated_at": "2026-05-14T07:57:19.645485900Z",
+  "updated_at": "2026-05-16T13:14:56.574644600Z",
   "public": false
 }
